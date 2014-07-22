@@ -1,3 +1,3 @@
 module ExecJS
-  VERSION = "2.2.1b"
+  VERSION = "2.0.2b"
 end
